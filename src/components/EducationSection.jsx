@@ -82,7 +82,7 @@ export const EducationSection = () => {
                 </p>
                 <div className="flex items-center justify-center sm:justify-start gap-2 text-muted-foreground mb-4">
                   <Calendar className="h-4 w-4" />
-                  <span className="text-sm sm:text-base">2014 - 2021</span>
+                  <span className="text-sm sm:text-base">2018 - 2022</span>
                 </div>
                 <p className="text-muted-foreground leading-relaxed text-sm sm:text-base">
                   Grade: 91.2%
