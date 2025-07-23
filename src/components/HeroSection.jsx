@@ -76,7 +76,7 @@ export const HeroSection = () => {
               View My Work <ArrowRight className="w-4 h-4" />
             </button>
             <a
-              href="https://drive.google.com/file/d/1Lb84ivgP_GNuAxgBXsdhSEIE_HBYjvip/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Cpo4VT7v9lY2f9BFpvffTzaSxjTinMro/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2.5 border border-border text-foreground rounded-lg hover:bg-background/10 hover:scale-105 transition"
